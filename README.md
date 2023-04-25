@@ -1,5 +1,7 @@
 # UserList Web App
 
+This project is a web application for user information. Users can view user records in a simple and intuitive interface.
+
 ## Getting Started
 
 To install dependencies and start the app:
@@ -8,21 +10,30 @@ yarn install
 yarn start
 ```
 ## Technologies Used
-* React
-* TypeScript
-* Tailwind CSS
-* Axios
-* React-Query
-* heroicons
+
+* React: A popular JavaScript library for building user interfaces.
+* TypeScript: A superset of JavaScript that adds static typing and other features.
+* Tailwind CSS: A utility-first CSS framework for building responsive web applications.
+* Axios: A promise-based HTTP client for making API requests.
+* React-Query: A library for managing and caching API data in React.
+* heroicons: A set of open-source icons designed for use with Tailwind CSS.
+
+## How to Use
+
+To view the user list, simply navigate to the app's homepage. From there, you can view, sort and search users.
 
 ## Future Improvements
-* Mobile Responsive
-* Column type control
-* Page size control
-* Sorting function will not limited to name fill
-* Search function will not limited to name fill
+
+Some potential areas for improvement in future versions of the UserList Web App include:
+
+* Mobile responsiveness: Make the app more mobile-friendly to better support users on smaller screens.
+* Column type control: Allow users to customize the types of data shown in each table column.
+* Page size control: Allow users to customize the number of records shown per page.
+* Sorting function: Add the ability to sort user records by criteria other than name fill.
+Search function: Add the ability to search user records by criteria other than name fill..
 
 ## Contributors
+
 Tan Wei Teck: Frontend Developement (React, TypeScript, Tailwind CSS)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).

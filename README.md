@@ -1,6 +1,6 @@
 # UserList Web App
 
-## Getting Started with 
+## Getting Started
 
 To install dependencies and start the app:
 ```

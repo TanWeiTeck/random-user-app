@@ -1,9 +1,29 @@
-# Getting Started with UserList Web App
+# UserList Web App
 
+## Getting Started with 
+
+To install dependencies and start the app:
 ```
 yarn install
 yarn start
 ```
+## Technologies Used
+* React
+* TypeScript
+* Tailwind CSS
+* Axios
+* React-Query
+* heroicons
+
+## Future Improvements
+* Mobile Responsive
+* Column type control
+* Page size control
+* Sorting function will not limited to name fill
+* Search function will not limited to name fill
+
+## Contributors
+Tan Wei Teck: Frontend Developement (React, TypeScript, Tailwind CSS)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
